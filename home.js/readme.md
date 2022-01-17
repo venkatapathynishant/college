@@ -2,7 +2,7 @@ const express = require("express");
 const {
   getStudents,
   createStudent,
-  deleteStudent,
+  deleteStudent.
 } = require("../controllers/studentController");
 
 const router = express.Router();
